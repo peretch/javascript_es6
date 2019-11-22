@@ -1,0 +1,23 @@
+{
+  "name": "javascript_es6",
+  "version": "1.0.0",
+  "description": "This project has been made to learn and underestand how to use Javascript ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peretch/javascript_es6.git"
+  },
+  "keywords": [
+    "es6",
+    "javascript"
+  ],
+  "author": "Sebastian Perez <sebastian@peretch.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peretch/javascript_es6/issues"
+  },
+  "homepage": "https://github.com/peretch/javascript_es6#readme"
+}
