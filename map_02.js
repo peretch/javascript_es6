@@ -1,4 +1,6 @@
-// Map second example
+/**
+ * Example with property
+ */
 var cars = [
     { model: 'Lancer', price: '28000'},
     { model: 'Gol', price: '19000'}
@@ -6,6 +8,16 @@ var cars = [
 
 var prices = cars.map((car) => {
     return car.price;
-})
+});
 
-console.log(prices);
+
+/**
+ * Implementation of pluck with map
+ */
+function pluck(array, property) {
+    return array.map((value) => {
+        return value[property];
+    });
+}
+
+console.log(pluck(cars, price));
