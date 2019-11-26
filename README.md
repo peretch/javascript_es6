@@ -1,9 +1,9 @@
 # javascript_es6
-This project has been made to learn and underestand how to use Javascript ES6
 
-## CONTENT OF THE PROJECT
+## Content of the project
+This project has been made to learn and underestand how to use Javascript ES6. It has a lot of javascript documents, with many usages examples.
 
-### HELPERS
+### Array Helpers
 This repository contains examples of different JavaScript ES6 helpers, for example:
 1. ForEach
 2. Find
@@ -12,4 +12,4 @@ This repository contains examples of different JavaScript ES6 helpers, for examp
 5. Every and Some
 6. Reduce
 
-### SPECIFIC SINTAX
+### Specific ES6 sintax
