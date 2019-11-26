@@ -13,3 +13,6 @@ This repository contains examples of different JavaScript ES6 helpers, for examp
 6. Reduce
 
 ### Specific ES6 sintax
+1. let and const variables
+2. Template Strings
+3. Array Functions
